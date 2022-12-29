@@ -1,0 +1,1 @@
+print("Tempek\n" * 100)
